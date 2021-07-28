@@ -1,2 +1,4 @@
 # Alura-Cursos
-Aprendendo com Alura :)
+## Aprendendo com Alura
+### Desenvolvimento pessoal como programador
+
