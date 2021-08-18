@@ -1,0 +1,9 @@
+.ul-lista{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+li{
+    padding: 15px;
+    list-style-type: none;
+}
